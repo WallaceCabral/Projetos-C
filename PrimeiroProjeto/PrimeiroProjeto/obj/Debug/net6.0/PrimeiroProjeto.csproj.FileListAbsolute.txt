@@ -1,0 +1,15 @@
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\ref\PrimeiroProjeto.dll
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+F:\RepositorioWallace\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
