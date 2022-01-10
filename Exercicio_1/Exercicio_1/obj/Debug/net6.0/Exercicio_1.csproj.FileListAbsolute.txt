@@ -1,0 +1,15 @@
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.exe
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.deps.json
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.runtimeconfig.json
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.dll
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\ref\Exercicio_1.dll
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\bin\Debug\net6.0\Exercicio_1.pdb
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.csproj.AssemblyReference.cache
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.AssemblyInfoInputs.cache
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.AssemblyInfo.cs
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.csproj.CoreCompileInputs.cache
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.dll
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\ref\Exercicio_1.dll
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.pdb
+F:\RepositorioWallace\Exercicio_1\Exercicio_1\obj\Debug\net6.0\Exercicio_1.genruntimeconfig.cache
