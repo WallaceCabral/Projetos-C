@@ -1,0 +1,15 @@
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.csproj.AssemblyReference.cache
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.GeneratedMSBuildEditorConfig.editorconfig
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.AssemblyInfoInputs.cache
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.AssemblyInfo.cs
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.csproj.CoreCompileInputs.cache
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ProgramaDeSoma.exe
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ProgramaDeSoma.deps.json
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ProgramaDeSoma.runtimeconfig.json
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ProgramaDeSoma.dll
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ref\ProgramaDeSoma.dll
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\bin\Debug\net6.0\ProgramaDeSoma.pdb
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.dll
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ref\ProgramaDeSoma.dll
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.pdb
+F:\RepositorioWallace\ProgramaDeSoma\ProgramaDeSoma\obj\Debug\net6.0\ProgramaDeSoma.genruntimeconfig.cache
