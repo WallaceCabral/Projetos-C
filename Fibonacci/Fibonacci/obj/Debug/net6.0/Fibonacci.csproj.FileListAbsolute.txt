@@ -1,0 +1,15 @@
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\ref\Fibonacci.dll
+F:\RepositorioWallace\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+F:\RepositorioWallace\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
