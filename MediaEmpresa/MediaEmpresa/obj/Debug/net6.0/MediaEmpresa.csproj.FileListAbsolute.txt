@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\MediaEmpresa.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\MediaEmpresa.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\MediaEmpresa.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\MediaEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\ref\MediaEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\bin\Debug\net6.0\MediaEmpresa.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\ref\MediaEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaEmpresa\MediaEmpresa\obj\Debug\net6.0\MediaEmpresa.genruntimeconfig.cache
