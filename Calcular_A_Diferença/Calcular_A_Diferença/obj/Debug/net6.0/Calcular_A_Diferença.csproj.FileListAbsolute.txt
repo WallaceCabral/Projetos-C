@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\Calcular_A_Diferença.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\Calcular_A_Diferença.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\Calcular_A_Diferença.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\Calcular_A_Diferença.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\ref\Calcular_A_Diferença.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\bin\Debug\net6.0\Calcular_A_Diferença.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\ref\Calcular_A_Diferença.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Calcular_A_Diferença\Calcular_A_Diferença\obj\Debug\net6.0\Calcular_A_Diferença.genruntimeconfig.cache
