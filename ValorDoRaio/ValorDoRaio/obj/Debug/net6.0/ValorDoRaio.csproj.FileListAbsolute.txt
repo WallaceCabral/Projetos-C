@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ValorDoRaio.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ValorDoRaio.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ValorDoRaio.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ValorDoRaio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ref\ValorDoRaio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\bin\Debug\net6.0\ValorDoRaio.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ref\ValorDoRaio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ValorDoRaio\ValorDoRaio\obj\Debug\net6.0\ValorDoRaio.genruntimeconfig.cache
