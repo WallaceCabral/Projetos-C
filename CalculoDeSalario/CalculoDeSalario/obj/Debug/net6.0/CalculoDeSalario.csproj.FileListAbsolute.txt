@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\CalculoDeSalario.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\CalculoDeSalario.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\CalculoDeSalario.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\CalculoDeSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\ref\CalculoDeSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\bin\Debug\net6.0\CalculoDeSalario.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\ref\CalculoDeSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDeSalario\CalculoDeSalario\obj\Debug\net6.0\CalculoDeSalario.genruntimeconfig.cache
