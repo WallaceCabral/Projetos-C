@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\ref\EstoqueProduto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\bin\Debug\net6.0\EstoqueProduto.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\ref\EstoqueProduto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueProduto\EstoqueProduto\obj\Debug\net6.0\EstoqueProduto.genruntimeconfig.cache
