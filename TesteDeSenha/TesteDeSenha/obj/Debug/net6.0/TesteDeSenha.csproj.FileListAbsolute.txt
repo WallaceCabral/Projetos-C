@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\TesteDeSenha.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\TesteDeSenha.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\TesteDeSenha.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\TesteDeSenha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\ref\TesteDeSenha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\bin\Debug\net6.0\TesteDeSenha.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\ref\TesteDeSenha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TesteDeSenha\TesteDeSenha\obj\Debug\net6.0\TesteDeSenha.genruntimeconfig.cache
