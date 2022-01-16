@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\HoraAtual.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\HoraAtual.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\HoraAtual.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\HoraAtual.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\ref\HoraAtual.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\bin\Debug\net6.0\HoraAtual.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\ref\HoraAtual.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\HoraAtual\HoraAtual\obj\Debug\net6.0\HoraAtual.genruntimeconfig.cache
