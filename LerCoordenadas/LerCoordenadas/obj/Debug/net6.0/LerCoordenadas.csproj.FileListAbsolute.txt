@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\LerCoordenadas.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\LerCoordenadas.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\LerCoordenadas.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\LerCoordenadas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\ref\LerCoordenadas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\bin\Debug\net6.0\LerCoordenadas.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\ref\LerCoordenadas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerCoordenadas\LerCoordenadas\obj\Debug\net6.0\LerCoordenadas.genruntimeconfig.cache
