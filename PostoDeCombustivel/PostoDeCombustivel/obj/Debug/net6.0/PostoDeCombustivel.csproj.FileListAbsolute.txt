@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\PostoDeCombustivel.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\PostoDeCombustivel.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\PostoDeCombustivel.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\PostoDeCombustivel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\ref\PostoDeCombustivel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\bin\Debug\net6.0\PostoDeCombustivel.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\ref\PostoDeCombustivel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PostoDeCombustivel\PostoDeCombustivel\obj\Debug\net6.0\PostoDeCombustivel.genruntimeconfig.cache
