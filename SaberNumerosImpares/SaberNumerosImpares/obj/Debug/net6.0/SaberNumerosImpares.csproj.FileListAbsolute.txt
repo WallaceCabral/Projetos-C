@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\SaberNumerosImpares.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\SaberNumerosImpares.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\SaberNumerosImpares.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\SaberNumerosImpares.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\ref\SaberNumerosImpares.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\bin\Debug\net6.0\SaberNumerosImpares.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\ref\SaberNumerosImpares.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SaberNumerosImpares\SaberNumerosImpares\obj\Debug\net6.0\SaberNumerosImpares.genruntimeconfig.cache
