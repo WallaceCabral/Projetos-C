@@ -1,0 +1,14 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\MediaDeNotas.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\MediaDeNotas.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\MediaDeNotas.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\MediaDeNotas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\ref\MediaDeNotas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\bin\Debug\net6.0\MediaDeNotas.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\ref\MediaDeNotas.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MediaDeNotas\MediaDeNotas\obj\Debug\net6.0\MediaDeNotas.genruntimeconfig.cache
