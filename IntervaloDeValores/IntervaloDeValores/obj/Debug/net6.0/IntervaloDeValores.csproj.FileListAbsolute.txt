@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\IntervaloDeValores.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\IntervaloDeValores.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\IntervaloDeValores.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\IntervaloDeValores.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\ref\IntervaloDeValores.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\bin\Debug\net6.0\IntervaloDeValores.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\ref\IntervaloDeValores.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\IntervaloDeValores\IntervaloDeValores\obj\Debug\net6.0\IntervaloDeValores.genruntimeconfig.cache
