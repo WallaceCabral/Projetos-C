@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ProgramaDeDivisao.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ProgramaDeDivisao.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ProgramaDeDivisao.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ProgramaDeDivisao.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ref\ProgramaDeDivisao.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\bin\Debug\net6.0\ProgramaDeDivisao.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ref\ProgramaDeDivisao.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ProgramaDeDivisao\ProgramaDeDivisao\obj\Debug\net6.0\ProgramaDeDivisao.genruntimeconfig.cache
