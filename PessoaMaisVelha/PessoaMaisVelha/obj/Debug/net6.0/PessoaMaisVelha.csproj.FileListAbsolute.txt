@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\ref\PessoaMaisVelha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache
