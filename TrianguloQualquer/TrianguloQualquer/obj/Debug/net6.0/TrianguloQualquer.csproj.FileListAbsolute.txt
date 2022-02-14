@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\TrianguloQualquer.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\TrianguloQualquer.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\TrianguloQualquer.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\TrianguloQualquer.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\ref\TrianguloQualquer.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\bin\Debug\net6.0\TrianguloQualquer.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\ref\TrianguloQualquer.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TrianguloQualquer\TrianguloQualquer\obj\Debug\net6.0\TrianguloQualquer.genruntimeconfig.cache
