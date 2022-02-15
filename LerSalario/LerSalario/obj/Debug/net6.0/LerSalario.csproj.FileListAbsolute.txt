@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\LerSalario.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\LerSalario.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\LerSalario.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\LerSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\ref\LerSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\bin\Debug\net6.0\LerSalario.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\ref\LerSalario.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\LerSalario\LerSalario\obj\Debug\net6.0\LerSalario.genruntimeconfig.cache
