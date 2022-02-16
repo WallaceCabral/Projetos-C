@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\EstoqueEmpresa.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\EstoqueEmpresa.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\EstoqueEmpresa.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\EstoqueEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\ref\EstoqueEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\bin\Debug\net6.0\EstoqueEmpresa.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\ref\EstoqueEmpresa.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EstoqueEmpresa\EstoqueEmpresa\obj\Debug\net6.0\EstoqueEmpresa.genruntimeconfig.cache
