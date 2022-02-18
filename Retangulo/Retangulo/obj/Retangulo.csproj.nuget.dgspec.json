@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj": {}
+    "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\Retangulo\\Retangulo\\Retangulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj": {
+    "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\Retangulo\\Retangulo\\Retangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj",
-        "projectName": "EstoqueEmpresa",
-        "projectPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\Retangulo\\Retangulo\\Retangulo.csproj",
+        "projectName": "Retangulo",
+        "projectPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\Retangulo\\Retangulo\\Retangulo.csproj",
         "packagesPath": "C:\\Users\\Target Sistemas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\Retangulo\\Retangulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Target Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
