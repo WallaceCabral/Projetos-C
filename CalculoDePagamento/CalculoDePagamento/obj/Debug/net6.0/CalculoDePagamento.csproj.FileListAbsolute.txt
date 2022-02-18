@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\CalculoDePagamento.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\CalculoDePagamento.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\CalculoDePagamento.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\CalculoDePagamento.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\ref\CalculoDePagamento.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\bin\Debug\net6.0\CalculoDePagamento.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\ref\CalculoDePagamento.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDePagamento\CalculoDePagamento\obj\Debug\net6.0\CalculoDePagamento.genruntimeconfig.cache
