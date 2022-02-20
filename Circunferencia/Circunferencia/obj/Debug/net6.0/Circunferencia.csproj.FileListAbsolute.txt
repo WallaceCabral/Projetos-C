@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\Circunferencia.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\Circunferencia.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\Circunferencia.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\Circunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\ref\Circunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\bin\Debug\net6.0\Circunferencia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\ref\Circunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Circunferencia\Circunferencia\obj\Debug\net6.0\Circunferencia.genruntimeconfig.cache
