@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\CotacacaoDolar.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\CotacacaoDolar.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\CotacacaoDolar.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\CotacacaoDolar.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\ref\CotacacaoDolar.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\bin\Debug\net6.0\CotacacaoDolar.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\ref\CotacacaoDolar.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CotacacaoDolar\CotacacaoDolar\obj\Debug\net6.0\CotacacaoDolar.genruntimeconfig.cache
