@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\CalculoDaCircunferencia.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\CalculoDaCircunferencia.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\CalculoDaCircunferencia.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\CalculoDaCircunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\ref\CalculoDaCircunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\bin\Debug\net6.0\CalculoDaCircunferencia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\ref\CalculoDaCircunferencia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\CalculoDaCircunferencia\CalculoDaCircunferencia\obj\Debug\net6.0\CalculoDaCircunferencia.genruntimeconfig.cache
