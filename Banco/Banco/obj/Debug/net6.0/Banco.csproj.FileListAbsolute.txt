@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\ref\Banco.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Banco\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
