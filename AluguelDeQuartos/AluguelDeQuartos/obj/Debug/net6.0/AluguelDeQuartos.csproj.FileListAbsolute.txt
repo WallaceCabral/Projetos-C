@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\AluguelDeQuartos.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\AluguelDeQuartos.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\AluguelDeQuartos.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\AluguelDeQuartos.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\ref\AluguelDeQuartos.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\bin\Debug\net6.0\AluguelDeQuartos.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\ref\AluguelDeQuartos.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AluguelDeQuartos\AluguelDeQuartos\obj\Debug\net6.0\AluguelDeQuartos.genruntimeconfig.cache
