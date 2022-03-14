@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\ref\AlturaMedia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\bin\Debug\net6.0\AlturaMedia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\ref\AlturaMedia.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AlturaMedia\AlturaMedia\obj\Debug\net6.0\AlturaMedia.genruntimeconfig.cache
