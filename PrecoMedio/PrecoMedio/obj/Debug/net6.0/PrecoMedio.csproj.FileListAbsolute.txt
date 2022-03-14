@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\ref\PrecoMedio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\bin\Debug\net6.0\PrecoMedio.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\ref\PrecoMedio.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\PrecoMedio\PrecoMedio\obj\Debug\net6.0\PrecoMedio.genruntimeconfig.cache
