@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ref\ExercicioMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ref\ExercicioMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.genruntimeconfig.cache
