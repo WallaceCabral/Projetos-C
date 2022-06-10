@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\NumeroNegativoMatriz.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\NumeroNegativoMatriz.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\NumeroNegativoMatriz.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\NumeroNegativoMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\ref\NumeroNegativoMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\bin\Debug\net6.0\NumeroNegativoMatriz.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\ref\NumeroNegativoMatriz.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\NumeroNegativoMatriz\NumeroNegativoMatriz\obj\Debug\net6.0\NumeroNegativoMatriz.genruntimeconfig.cache
