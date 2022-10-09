@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\bin\Debug\net6.0\UtilizandoGetDate.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\bin\Debug\net6.0\UtilizandoGetDate.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\bin\Debug\net6.0\UtilizandoGetDate.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\bin\Debug\net6.0\UtilizandoGetDate.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\bin\Debug\net6.0\UtilizandoGetDate.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\refint\UtilizandoGetDate.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\UtilizandoGetDate.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\UtilizandoGetDate\UtilizandoGetDate\obj\Debug\net6.0\ref\UtilizandoGetDate.dll
