@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\bin\Debug\net6.0\Condicional_Ternaria.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\bin\Debug\net6.0\Condicional_Ternaria.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\bin\Debug\net6.0\Condicional_Ternaria.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\bin\Debug\net6.0\Condicional_Ternaria.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\bin\Debug\net6.0\Condicional_Ternaria.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\refint\Condicional_Ternaria.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\Condicional_Ternaria.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Condicional_Ternaria\Condicional_Ternaria\obj\Debug\net6.0\ref\Condicional_Ternaria.dll
