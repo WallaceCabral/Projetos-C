@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\bin\Debug\net6.0\Funções com String.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\bin\Debug\net6.0\Funções com String.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\bin\Debug\net6.0\Funções com String.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\bin\Debug\net6.0\Funções com String.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\bin\Debug\net6.0\Funções com String.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\refint\Funções com String.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\Funções com String.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Funções com String\Funções com String\obj\Debug\net6.0\ref\Funções com String.dll
