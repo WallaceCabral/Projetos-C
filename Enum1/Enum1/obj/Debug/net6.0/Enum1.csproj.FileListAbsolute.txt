@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\bin\Debug\net6.0\Enum1.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\bin\Debug\net6.0\Enum1.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\bin\Debug\net6.0\Enum1.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\bin\Debug\net6.0\Enum1.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\bin\Debug\net6.0\Enum1.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\refint\Enum1.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\Enum1.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\Enum1\Enum1\obj\Debug\net6.0\ref\Enum1.dll
