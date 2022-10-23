@@ -8,7 +8,8 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Target Sistemas\\.nuget\\packages\\": {}
+    "C:\\Users\\Wallace Cabral\\.nuget\\packages\\": {},
+    "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +17,15 @@
       "projectUniqueName": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj",
       "projectName": "EstoqueEmpresa",
       "projectPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\EstoqueEmpresa.csproj",
-      "packagesPath": "C:\\Users\\Target Sistemas\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Wallace Cabral\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Wallace Cabral\\Documents\\GitHub\\Projetos-C\\EstoqueEmpresa\\EstoqueEmpresa\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Target Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wallace Cabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
