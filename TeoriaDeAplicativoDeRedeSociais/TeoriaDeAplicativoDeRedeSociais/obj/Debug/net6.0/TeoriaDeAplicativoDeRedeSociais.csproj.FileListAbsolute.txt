@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\bin\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\bin\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\bin\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\bin\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\bin\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\refint\TeoriaDeAplicativoDeRedeSociais.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\TeoriaDeAplicativoDeRedeSociais.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\TeoriaDeAplicativoDeRedeSociais\TeoriaDeAplicativoDeRedeSociais\obj\Debug\net6.0\ref\TeoriaDeAplicativoDeRedeSociais.dll
