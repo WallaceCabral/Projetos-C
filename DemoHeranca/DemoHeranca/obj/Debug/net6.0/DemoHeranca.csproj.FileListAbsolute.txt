@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\bin\Debug\net6.0\DemoHeranca.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\bin\Debug\net6.0\DemoHeranca.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\bin\Debug\net6.0\DemoHeranca.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\bin\Debug\net6.0\DemoHeranca.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\bin\Debug\net6.0\DemoHeranca.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\refint\DemoHeranca.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\DemoHeranca.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\DemoHeranca\DemoHeranca\obj\Debug\net6.0\ref\DemoHeranca.dll
