@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\bin\Debug\net6.0\EmpresaTerceirizada.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\bin\Debug\net6.0\EmpresaTerceirizada.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\bin\Debug\net6.0\EmpresaTerceirizada.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\bin\Debug\net6.0\EmpresaTerceirizada.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\bin\Debug\net6.0\EmpresaTerceirizada.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\refint\EmpresaTerceirizada.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\EmpresaTerceirizada.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\EmpresaTerceirizada\EmpresaTerceirizada\obj\Debug\net6.0\ref\EmpresaTerceirizada.dll
