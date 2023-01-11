@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\bin\Debug\net6.0\MetodoAbstrato.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\bin\Debug\net6.0\MetodoAbstrato.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\bin\Debug\net6.0\MetodoAbstrato.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\bin\Debug\net6.0\MetodoAbstrato.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\bin\Debug\net6.0\MetodoAbstrato.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\refint\MetodoAbstrato.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\MetodoAbstrato.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\MetodoAbstrato\MetodoAbstrato\obj\Debug\net6.0\ref\MetodoAbstrato.dll
