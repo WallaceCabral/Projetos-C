@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\bin\Debug\net6.0\ContribuintesImposto.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\bin\Debug\net6.0\ContribuintesImposto.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\bin\Debug\net6.0\ContribuintesImposto.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\bin\Debug\net6.0\ContribuintesImposto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\bin\Debug\net6.0\ContribuintesImposto.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\refint\ContribuintesImposto.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ContribuintesImposto.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ContribuintesImposto\ContribuintesImposto\obj\Debug\net6.0\ref\ContribuintesImposto.dll
