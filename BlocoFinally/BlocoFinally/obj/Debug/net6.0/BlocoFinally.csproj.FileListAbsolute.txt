@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\bin\Debug\net6.0\BlocoFinally.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\bin\Debug\net6.0\BlocoFinally.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\bin\Debug\net6.0\BlocoFinally.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\bin\Debug\net6.0\BlocoFinally.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\bin\Debug\net6.0\BlocoFinally.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\refint\BlocoFinally.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\BlocoFinally.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\BlocoFinally\BlocoFinally\obj\Debug\net6.0\ref\BlocoFinally.dll

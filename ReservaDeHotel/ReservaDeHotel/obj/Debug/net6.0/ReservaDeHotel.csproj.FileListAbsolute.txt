@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\bin\Debug\net6.0\ReservaDeHotel.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\bin\Debug\net6.0\ReservaDeHotel.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\bin\Debug\net6.0\ReservaDeHotel.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\bin\Debug\net6.0\ReservaDeHotel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\bin\Debug\net6.0\ReservaDeHotel.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\refint\ReservaDeHotel.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ReservaDeHotel.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\ReservaDeHotel\ReservaDeHotel\obj\Debug\net6.0\ref\ReservaDeHotel.dll

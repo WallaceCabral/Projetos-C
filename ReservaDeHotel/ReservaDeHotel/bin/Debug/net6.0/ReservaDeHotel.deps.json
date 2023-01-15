@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReservaDeHotel/1.0.0": {
+        "runtime": {
+          "ReservaDeHotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservaDeHotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
