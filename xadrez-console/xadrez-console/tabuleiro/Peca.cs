@@ -10,7 +10,7 @@ namespace tabuleiro
         public Tabuleiro tab { get; protected set; }
 
 
-        public Peca(Posicao posicao,Tabuleiro tab , Cor cor )
+        public Peca(Tabuleiro tab , Cor cor )
         {
             this.posicao = null;
             this.tab = tab;
