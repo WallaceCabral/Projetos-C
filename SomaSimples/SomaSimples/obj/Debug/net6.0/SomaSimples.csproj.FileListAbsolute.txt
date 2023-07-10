@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\refint\SomaSimples.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\SomaSimples\SomaSimples\obj\Debug\net6.0\ref\SomaSimples.dll
