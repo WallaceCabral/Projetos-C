@@ -1,0 +1,15 @@
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\bin\Debug\net6.0\AplicativoDeMusica.exe
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\bin\Debug\net6.0\AplicativoDeMusica.deps.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\bin\Debug\net6.0\AplicativoDeMusica.runtimeconfig.json
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\bin\Debug\net6.0\AplicativoDeMusica.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\bin\Debug\net6.0\AplicativoDeMusica.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.csproj.AssemblyReference.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.AssemblyInfoInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.AssemblyInfo.cs
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.csproj.CoreCompileInputs.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\refint\AplicativoDeMusica.dll
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.pdb
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\AplicativoDeMusica.genruntimeconfig.cache
+C:\Users\Wallace Cabral\Documents\GitHub\Projetos-C\AplicativoDeMusica\obj\Debug\net6.0\ref\AplicativoDeMusica.dll
